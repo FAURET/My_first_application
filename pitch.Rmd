@@ -21,7 +21,7 @@ library(ggplot2)
 - The shiny app developed for this assignment is avalilable at: https://thierryfauret.shinyapps.io/univariate_analysis/
 
 
-- The source codes of ui.R and server.R are available on the GitHub repo: https://github.com/FAURET/My_first_shiny_application
+- The source codes of ui.R and server.R are available on the GitHub repo: https://github.com/FAURET/My_first_application
 
 
 ## Application presentation {.smaller}
