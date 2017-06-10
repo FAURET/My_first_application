@@ -10,6 +10,8 @@ library(shiny)
 shinyUI(pageWithSidebar(
         headerPanel(""),
         sidebarPanel(
+                a("Select the data frame in the Data set list. If you import data from a CSV file, select before the file and then select *Data from csv file* in the data set list. Finally select the Y and X whose correlation you want to analyse."),
+                
                 fileInput("file1", "Choose CSV File",
                                    accept = c(
                                   "text/csv",
